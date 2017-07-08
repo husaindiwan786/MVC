@@ -1,0 +1,10 @@
+E:\VisualStudio\EmployeeService\EmployeeDataAccessLayer\bin\Release\EmployeeDataAccessLayer.dll.config
+E:\VisualStudio\EmployeeService\EmployeeDataAccessLayer\bin\Release\EmployeeDataAccessLayer.dll
+E:\VisualStudio\EmployeeService\EmployeeDataAccessLayer\bin\Release\EmployeeDataAccessLayer.pdb
+E:\VisualStudio\EmployeeService\EmployeeDataAccessLayer\bin\Release\EntityFramework.dll
+E:\VisualStudio\EmployeeService\EmployeeDataAccessLayer\bin\Release\EntityFramework.SqlServer.dll
+E:\VisualStudio\EmployeeService\EmployeeDataAccessLayer\bin\Release\EntityFramework.xml
+E:\VisualStudio\EmployeeService\EmployeeDataAccessLayer\bin\Release\EntityFramework.SqlServer.xml
+E:\VisualStudio\EmployeeService\EmployeeDataAccessLayer\obj\Release\EmployeeDataAccessLayer.csprojResolveAssemblyReference.cache
+E:\VisualStudio\EmployeeService\EmployeeDataAccessLayer\obj\Release\EmployeeDataAccessLayer.dll
+E:\VisualStudio\EmployeeService\EmployeeDataAccessLayer\obj\Release\EmployeeDataAccessLayer.pdb

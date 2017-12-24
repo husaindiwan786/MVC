@@ -8,3 +8,13 @@ E:\VisualStudio\EmployeeService\EmployeeDataAccessLayer\bin\Debug\EntityFramewor
 E:\VisualStudio\EmployeeService\EmployeeDataAccessLayer\obj\Debug\EmployeeDataAccessLayer.csprojResolveAssemblyReference.cache
 E:\VisualStudio\EmployeeService\EmployeeDataAccessLayer\obj\Debug\EmployeeDataAccessLayer.dll
 E:\VisualStudio\EmployeeService\EmployeeDataAccessLayer\obj\Debug\EmployeeDataAccessLayer.pdb
+E:\GIT\MVC\EmployeeService\EmployeeDataAccessLayer\bin\Debug\EmployeeDataAccessLayer.dll.config
+E:\GIT\MVC\EmployeeService\EmployeeDataAccessLayer\bin\Debug\EmployeeDataAccessLayer.dll
+E:\GIT\MVC\EmployeeService\EmployeeDataAccessLayer\bin\Debug\EmployeeDataAccessLayer.pdb
+E:\GIT\MVC\EmployeeService\EmployeeDataAccessLayer\bin\Debug\EntityFramework.dll
+E:\GIT\MVC\EmployeeService\EmployeeDataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\GIT\MVC\EmployeeService\EmployeeDataAccessLayer\bin\Debug\EntityFramework.xml
+E:\GIT\MVC\EmployeeService\EmployeeDataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\GIT\MVC\EmployeeService\EmployeeDataAccessLayer\obj\Debug\EmployeeDataAccessLayer.csprojResolveAssemblyReference.cache
+E:\GIT\MVC\EmployeeService\EmployeeDataAccessLayer\obj\Debug\EmployeeDataAccessLayer.dll
+E:\GIT\MVC\EmployeeService\EmployeeDataAccessLayer\obj\Debug\EmployeeDataAccessLayer.pdb
